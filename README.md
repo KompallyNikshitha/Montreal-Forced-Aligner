@@ -173,7 +173,6 @@ output/alignment_analysis.csv
 
 ## 📄 Reports
 
-* Assignment1.pdf
 * reportiiit.pdf
 
 These documents contain methodology, implementation details, observations, and analysis of the alignment results.
